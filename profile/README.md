@@ -4,7 +4,7 @@ This is an open source project dedicated to making add comments to your websites
 
 It may sound strange, but it works really well for the small web. If you're curious, please visit [r3ply.com](https://r3ply.com) to learn more. 
 
-# Demo
+## Demo
 
 View a demo either on the [r3ply site](https://r3ply.com/demo/) or at my [personal site](https://spenc.es/writing/email-as-a-commenting-system/#comments).
 
@@ -23,5 +23,11 @@ Read the [docs](https://r3ply.com/docs/)
 ## Contributing 
 
 This is a relatively new project and as such needs a lot of help. Please visit [r3ply.com/project/contributing/](https://r3ply.com/project/contributing/) to familiarize yourself with the project structure. From there you'll see links to the roadmap. 
+
+## Main repos
+
+- [r3ply](https://github.com/r3ply/r3ply): the r3ply mono repo, containing the majority of the essential source code
+- [r3ply zola theme](https://github.com/r3ply/r3ply-zola-theme): a zola theme for r3py that makes adding commenting to your site easy
+- r3ply GitHub app (TODO): source code for the r3ply GitHub app
 
 ![r3ply landing illustration](https://r3ply.com/illustrations/r3ply-landing_dark@0.5x.webp)
